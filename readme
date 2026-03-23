@@ -5,7 +5,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 
 Scrapes posts from a Patreon creator page and compiles them
-into a formatted Word document (.docx).
+into a formatted Word document (.docx). ONLY TEXT IS SCRAPED AT THIS TIME! Best used for books.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 REQUIREMENTS
